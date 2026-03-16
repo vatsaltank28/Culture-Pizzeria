@@ -1,0 +1,10 @@
+packages:
+  "framer-motion": "Smooth page transitions, scroll-reveals, and polished layout animations"
+  "react-helmet-async": "Managing SEO metadata (title, description, open graph tags) across pages"
+  "@hookform/resolvers": "Zod validation integration with react-hook-form for the contact page"
+  "react-hook-form": "Form state management"
+  "zod": "Schema validation for contact form"
+
+notes:
+  - This is a frontend-only application with hardcoded data. No API server connections are required.
+  - Using Unsplash images for high-quality food photography as requested.
